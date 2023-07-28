@@ -1,0 +1,180 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcome{
+    font-size: 100px;
+    display: block;
+    margin-left: 425px;
+    margin-top: 50px;
+
+}
+
+.title{
+    display: inline;
+    color: orange;
+    font-size: 25px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.logo{
+    height: 50px;
+    display: inline;
+    margin-top: -10px;
+    vertical-align: middle;
+    
+}
+
+.aboutme {
+    background-color: orange;
+    border: 0;
+    border-radius: 2px;
+    padding-left: 15px ;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 443.5px;
+    display: inline;
+    transition: 0.3s;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.aboutme:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.text1 {
+    margin-top: 125px;
+    font-size: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.aboutmetitle{
+    font-size: 100px;
+    display: block;
+    margin-left: 425px;
+    margin-top: 50px;
+
+}
+
+.backbutton {
+    background-color: orange;
+    border: 0;
+    border-radius: 2px;
+    padding-left: 25px ;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 585px;
+    display: inline;
+    transition: 0.3s;
+    font-size: 15px;
+    color: black;
+}
+
+.backbutton:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.links{
+    background-color: orange;
+    border: 0;
+    border-radius: 2px;
+    padding-left: 35px ;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+    display: inline;
+    transition: 0.3s;
+    font-size: 15px;
+    color: black;
+}
+
+.links:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.linkstitle{
+    font-size: 100px;
+    margin-left: 525px;
+    margin-top: 75px;
+    margin-bottom: none;
+    display: block;
+}
+
+.gdlink{
+    color: orange;
+    font-size: 35px;
+    margin-left: 560px;
+    display: inline;
+}
+
+.bslink{
+    color: orange;
+    font-size: 35px;
+    margin-left: 520px;
+    display: inline
+}
+
+.ytlink{
+    color: orange;
+    font-size: 35px;
+    margin-left: 520px;
+    display: inline
+}
+
+.backbutton2{
+    background-color: orange;
+    border: 0;
+    border-radius: 2px;
+    padding-left: 25px ;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 600px;
+    display: block;
+    transition: 0.3s;
+    font-size: 15px;
+    color: black;
+    margin-top: 20px;
+}
+
+.backbutton2:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.stuff{
+    background-color: orange;
+    border: 0;
+    border-radius: 2px;
+    padding-left: 35px ;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+    display: inline;
+    transition: 0.3s;
+    font-size: 15px;
+    color: black;
+}
+
+.stuff:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
